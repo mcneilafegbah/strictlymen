@@ -157,3 +157,4 @@ CSRF_TRUSTED_ORIGINS = [
     'https://8000-mcneilafegb-strictlymen-dw420ikgell.ws-eu116.gitpod.io',
     # Add any other trusted origins if necessary
 ]
+
